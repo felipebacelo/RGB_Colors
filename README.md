@@ -26,7 +26,7 @@ Exercitar os seguintes conceitos:
 ***
 ### Desenvolvimento
 
-Para a resolução deste trabalho prático foram utilizadas as seguintes ferramentas:
+Para a resolução deste trabalho prático foram utilizadas as seguintes tecnologias:
 
 * Visual Studio Code
 * HTML
