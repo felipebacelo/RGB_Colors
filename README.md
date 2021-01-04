@@ -3,7 +3,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/felipebacelo/RGB_Colors?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/RGB_Colors?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/RGB_Colors?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/felipebacelo/RGB_Colors?style=for-the-badge)
 
 # RGB Colors
 
